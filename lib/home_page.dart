@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
                 height: 300,
                 child: AlertDialog(
                   title: Text('Game Over'),
-                  insetPadding: EdgeInsets.all(200),
+                  // insetPadding: EdgeInsets.all(200),
                   content: Column(
                     children: [
                       Text('Your score is $currentScore'),
