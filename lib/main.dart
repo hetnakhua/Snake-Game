@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+      title: 'Snake Game',
       home: HomePage(),
       theme: ThemeData(brightness: Brightness.dark),
     );

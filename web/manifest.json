@@ -1,11 +1,11 @@
 {
-    "name": "snake_game",
-    "short_name": "snake_game",
+    "name": "Snake Game",
+    "short_name": "Snake Game",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A new Flutter project recreating the classic arcade-style snake game.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
